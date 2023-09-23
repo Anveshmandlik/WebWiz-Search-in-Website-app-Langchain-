@@ -1,0 +1,4 @@
+-Langchain
+-Streamlit
+-python-dotenv
+-trafilatura
